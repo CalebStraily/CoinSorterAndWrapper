@@ -110,9 +110,9 @@ for (let i = 0; i < challengeData.length; i++)
 }
 
 console.log(`Amount of pennies: ${coinAmount[0]}`);
-console.log(`Amount of pennies: ${coinAmount[1]}`);
-console.log(`Amount of pennies: ${coinAmount[2]}`);
-console.log(`Amount of pennies: ${coinAmount[3]}`);
+console.log(`Amount of nickels: ${coinAmount[1]}`);
+console.log(`Amount of dimes: ${coinAmount[2]}`);
+console.log(`Amount of quarters: ${coinAmount[3]}`);
 
 for (let i = 0; i < coinAmount.length; i++)
 {
